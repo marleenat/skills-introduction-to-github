@@ -1,8 +1,6 @@
 # Wooldridge chapter 8, empirical exercise C8-2.i
 
 # LOAD PACKAGES
-
-
 library(stargazer)
 library(sandwich)
 library(lmtest)
